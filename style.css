@@ -1,0 +1,42 @@
+body{
+    color: brown;
+}
+
+.padre{
+    background-color: rgb(6, 213, 250);
+    width: 230px;
+    height: 430px;
+}
+
+.fondo{
+    background-color: brown;
+    width: 224px;
+    height: 150px;
+    border-radius: 10px;
+    position: relative;
+    left: 3px;
+    top: 3px;
+    right: 3px
+}
+
+#corazon{
+    position: relative;
+    top: 10px;
+    left: 200px;
+}
+
+#spiderman{
+    height: 200px;
+    width: 95%;
+    position: relative;
+}
+
+.textos{
+    margin-top: 90px;
+    text-align: center;
+    color: black;
+}
+
+.textos :nth-child(3){
+    color: red;
+}
