@@ -40,3 +40,7 @@ body{
 .textos :nth-child(3){
     color: red;
 }
+
+#tachado{
+    text-decoration: line-through;
+}
